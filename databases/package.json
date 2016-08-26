@@ -12,7 +12,9 @@
   "author": "c ross",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.0.1",
     "cheerio": "^0.22.0",
+    "file": "^0.2.2",
     "request": "^2.74.0"
   }
 }
